@@ -1,0 +1,10 @@
+name: Man10ArmorStandEditor
+version: ${project.version}
+main: red.man10.man10armorstandeditor.Man10ArmorStandEditor
+authors: [Mr_IK]
+description: Man10ArmorStandEditor_plugin
+commands:
+  mas:
+    description: Man10ArmorStandEditor_plugin_maincommand
+    usage: /<command>
+    default: op
